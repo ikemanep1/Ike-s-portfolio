@@ -1,12 +1,12 @@
-# _{Ike's portfolio}_
+# _Ike's portfolio_
 
-## _{This application is my skills portfolio for Epicodus}, {Version 1}_
+## _This application is my skills portfolio for Epicodus, Version 1_
 
-#### By _**{Myself (Ike Esquivel-Pilloud)}**_
+#### By _**Myself (Ike Esquivel-Pilloud)**_
 
 ## Description
 
-_{This is an application that contains all of the information needed for my portfolio. It has a brief description of myself, my background education, my previous jobs, and interests. It also has links to other projects. }_
+_This is an application that contains all of the information needed for my portfolio. It has a brief description of myself, my background education, my previous jobs, and interests. It also has links to other projects. _
 
 ### Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{This is an application that contains all of the information needed for my port
 
 ### Known Bugs
 
-_{The photos and all css styles fail to load. Only the Bootstrap actually works.}_
+_The photos and all css styles fail to load. Only the Bootstrap actually works._
 
 ### Support and contact details
 
-_{Email:ike.esquivelpilloud@gmail.com phone:503-421-6212}_
+_Email:ike.esquivelpilloud@gmail.com phone:503-421-6212_
 
 ### Technologies Used
 
-_{I used Github, Atom, Bootstrap, Lorem Ipsum, HTML, and CSS}_
+_I used Github, Atom, Bootstrap, Lorem Ipsum, HTML, and CSS_
 
 ### License
 
-*{MIT}*
+*MIT*
 
-Copyright (c) 2019 **_{Ike Esquivel-Pilloud}_**
+Copyright (c) 2019 **_Ike Esquivel-Pilloud_**
