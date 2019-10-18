@@ -1,4 +1,12 @@
+body{
+  color:#800000
+}
+
 img{
   width:300px;
   height:300px;
+}
+
+.leadtitle {
+  font-style: italic;
 }
