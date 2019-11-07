@@ -18,7 +18,7 @@ _This is an application that contains all of the information needed for my portf
 
 ### Known Bugs
 
-_The photos and all css styles fail to load. Only the Bootstrap actually works._
+__
 
 ### Support and contact details
 
