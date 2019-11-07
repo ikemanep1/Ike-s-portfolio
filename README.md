@@ -8,7 +8,7 @@
 
 ## Description
 
-_This is an application that contains all of the information needed for my portfolio. It has a brief description of myself, my background education, my previous jobs, and interests. It also has links to other projects. _
+_This is an application that contains all of the information needed for my portfolio. It has a brief description of myself, my background education, my previous jobs, and interests. It also has links to other projects._
 
 ### Setup/Installation Requirements
 
