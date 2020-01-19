@@ -2,52 +2,47 @@ body{
 background-color: #8a0000;
 }
 .ike{
-  width:200px;
+  width:300px;
+  height: 300px
   float:inherit;
-}
+  border: 4px solid #ffffff;
 }
 .partA{
   color: #ffd940
 }
 .jumbotron{
   font-family: cursive;
-  background-color:#ff9900;
+  background-color:#1f1f14;
   color: #ffffff;
+  border: 8px solid #ff9900;
 }
 .container{
   color:#ffcc00;
-  background-color: #6e6e6e;
+  background-color: #1f1f14;
+  border: 4px solid #ff9900;
   }
-.fix{
-  color:#ffcc00;
-  background-color: #6e6e6e;
-}
-
-.filler{
-  background-color: #8a0000;
-  font-weight: 800;
-}
-
-a{
+.information a{
   color:#00ffff;
 }
-
 .container strong{
-  color: #8a0000;
+  color: #ff0000;
 }
-
-.box {
+.information {
   border: 4px solid #ff9900;
   padding: 3px;
   color: #ffd940;
-  background-color: #6e6e6e;
+  background-color: #1f1f14;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 25px;
 }
-
 .sidebar{
   width: 30%;
   float: right;
   color:#ffcc00;
-  background-color: #938f96;
+  background-color: #1f1f14;
+  border: 4px solid #ff9900;
+  margin-right: 25px;
 }
 .job{
   font-style: italic;
