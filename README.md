@@ -4,8 +4,6 @@
 
 #### By _**Myself (Ike Esquivel-Pilloud)**_
 
-#### link to site:https://ikemanep1.github.io/Ike-s-portfolio/
-
 ## Description
 
 _This is an application that contains all of the information needed for my portfolio. It has a brief description of myself, my background education, my previous jobs, and interests. It also has links to other projects._
